@@ -5,7 +5,7 @@ Install VMs
 1. Installed windows server 2022 on vmware
 2. Installed windows 11 on vmware 
 3. Installed Domain Controller
-#################
+#
 1. User 'sconfig' to:
     -change hostname
     -change ip

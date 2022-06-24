@@ -2,9 +2,9 @@
 
 # Install VMs
 1. Server Install
-    -Installed Windows Server 2022 on Vmware Workstation
+    - Installed Windows Server 2022 on Vmware Workstation
 2. Workstation Install
-    -Installed Windows 11 on Vmware Workstation
+    - Installed Windows 11 on Vmware Workstation
 # Configure Domain Controller
 1. User 'sconfig' to:
     - change hostname
